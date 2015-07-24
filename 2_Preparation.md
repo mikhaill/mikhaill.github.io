@@ -26,7 +26,7 @@ If your product promises to grow sales or cut costs, that is very easy for the c
 
 Staff happiness and increasing efficiency is typically hard to quantify, and prospects balk at buying a product that doesn’t offer a clear ROI they can put a number on. Imagine going to your boss for approval to purchase something and the boss asks "Great, if we spend this $500 a year, can we track the results?"  If this is your value proposition, consider for your pricing to have low upfront cost or an easy way to get out (no long term contracts) to make people comfortable trying the product.
 
-### Switching costs and barriers
+** Switching costs and barriers **
 - Is your product something that’s extremely sticky and hard to migrate from once people start using it? 
 - Is there a lot of up front work that requires an implementation process? 
 - How is easy is it to migrate from a competitor to your product?
