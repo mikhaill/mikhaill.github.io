@@ -8,9 +8,9 @@ published: true
 
 > 1.   Before you can determine pricing, you need to determine product positioning.
 
-> 2.   Pricing has to work for the business and the customers and be constant with the product positioning.
+> 2.   Pricing has to work for the business, the customer and be consistant with product positioning.
 
-Developing a proper pricing structure for B2B SaaS software products is especially complicated. Pricing has many requirements and figuring out how to get it right isn’t easy. It takes plenty of trials and errors. Getting pricing correct is extremely important because it determines the length of your sales cycle, the decision makers, positions you in the marketplace, sets customers expectations and has to keep you profitable.
+Developing a proper pricing structure for B2B SaaS software products is complicated. Pricing has many requirements, and figuring out how to get it right is not easy. It takes plenty of trial and errors. Getting pricing correct is extremely important because it will determines the length of your sales cycle, who the decision makers are, your position in the marketplace, sets customers expectations and has to keep you profitable.
 
 SaaS solutions are attractive to customers because they reduce the upfront investment and avoid the ongoing costs of maintaining the hardware and the software. With a SaaS solution, those costs and risks are transferred to the software developer, so it’s important that the pricing structure accounts for this.
 
@@ -18,14 +18,16 @@ Besides having many implications, pricing also has to work for all the stakehold
 
 - Prospects and Customers – It has to align with your customers business models
 - Messaging – Pricing messages to prospects what kind of customer you’re looking for and it has to align with your product marketing message
-- Market Position– Competition, substitutions and customer’s lifecycle have to be taken into account for setting your pricing. 
+- Market Position – Competition, substitutions and customer’s lifecycle have to be taken into account for setting your pricing. 
 - Changes – Customers do not like change, especially when it’s a price increase
 
-There is no simple formula or a 3-step process to help with pricing you product. I hope to show the different approaches and implications of various decisions to help you form a solid foundation for coming up with a pricing strategy for your products.  A pricing strategy is something that can’t be figured out in an hour, it requires research and analysis. 
+There is no simple formula or a 3-step process to help with pricing you product. I hope to show the different approaches and implications of various decisions to help you form a solid foundation for coming up with a pricing strategy for your products.   
 
 The one assumption I’m making is that you already know the product positioning for your offering.
 
 Before we can talk pricing, there needs to be a clear product marketing position that pricing supports. If you haven’t figured out your product positioning, do it now, because a misalignment between pricing and position will quickly kill your sales.
+
+If you don't take product positioning seriously, if will most likely kill your startup. Check out roundup of some startup post mortems [here](https://www.cbinsights.com/blog/startup-failure-post-mortem/) or [here](http://autopsy.io/) and look at the most common reason for failure? It's the "lack of product to market fit".
 
 Product positioning is an important part of a product marketing strategy.  If you try to be everything to everyone, you may not succeed with anyone.  A specific position helps buyers understand where the product fits in terms what it offers, and how it compares with the competition. 
 
