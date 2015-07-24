@@ -27,7 +27,7 @@ The one assumption I’m making is that you already know the product positioning
 
 Before we can talk pricing, there needs to be a clear product marketing position that pricing supports. If you haven’t figured out your product positioning, do it now, because a misalignment between pricing and position will quickly kill your sales.
 
-If you don't take product positioning seriously, if will most likely kill your startup. Check out roundup of some startup post mortems [here](https://www.cbinsights.com/blog/startup-failure-post-mortem/) or [here](http://autopsy.io/) and look at the most common reason for failure? It's the "lack of product to market fit".
+> If you don't take product positioning seriously, if will most likely kill your startup. Check out some startup post mortems [here](https://www.cbinsights.com/blog/startup-failure-post-mortem/) or [here](http://autopsy.io/) and look at the most common reason for failure. It's the "lack of product to market fit".
 
 Product positioning is an important part of a product marketing strategy.  If you try to be everything to everyone, you may not succeed with anyone.  A specific position helps buyers understand where the product fits in terms what it offers, and how it compares with the competition. 
 
