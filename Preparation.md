@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Getting Ready
+title: 2. Getting Ready
 published: true
 ---
 
