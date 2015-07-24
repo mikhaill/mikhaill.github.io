@@ -1,6 +1,6 @@
 ---
 layout: page
-title: B2B Saas Pricing Intro
+title: Introduction
 published: true
 ---
 
