@@ -4,7 +4,9 @@ title: 1. Introduction
 published: true
 ---
 
-
+> **Key Points**
+> 1.   Before you can determine pricing, you need to determine product positioning.
+> 2.   Pricing has to work for the business and the customers and be constant with the product positioning.
 
 Developing a proper pricing structure for B2B SaaS software products is especially complicated. Pricing has many requirements and figuring out how to get it right isn’t easy. It takes plenty of trials and errors. Getting pricing correct is extremely important because it determines the length of your sales cycle, the decision makers, positions you in the marketplace, sets customers expectations and has to keep you profitable.
 
