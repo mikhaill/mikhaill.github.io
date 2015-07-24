@@ -5,6 +5,7 @@ published: true
 ---
 
 > **Key Points**
+
 > 1.   Before you can determine pricing, you need to determine product positioning.
 
 > 2.   Pricing has to work for the business and the customers and be constant with the product positioning.
