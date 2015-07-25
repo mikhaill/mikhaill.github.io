@@ -40,7 +40,7 @@ You’ve decided to target e-commerce merchants who are established, growing fas
             <td>$2M</td>
         </tr>
         <tr>
-            <td colspan="2">Warehouse Rental, 7 FTEs, E-commerce software, accounting package, marketing, packaging supplies, etc. </td>
+            <td colspan="2">* Warehouse Rental, 7 FTEs, E-commerce software, accounting package, marketing, packaging supplies, etc. </td>
         </tr>
 
 </tbody>
@@ -76,7 +76,7 @@ However, let’s say you you made the decision that you want to get the customer
             <td>$25,000</td>
         </tr>
                 <tr>
-            <td colspan="2">2 FTEs, E-commerce software, accounting package, marketing, packaging supplies, etc. </td>
+            <td colspan="2">* 2 FTEs, E-commerce software, accounting package, marketing, packaging supplies, etc. </td>
         </tr>
     </tbody>
 </table> 
