@@ -1,7 +1,7 @@
 ---
 layout: page
-title: 4. Other Considerations
-published: true
+title: 5. Other Considerations
+published: false
 ---
 
 This is more of a collections of a number of small and quick ideas to keep in mind before you get to the actual pricing considerations.
