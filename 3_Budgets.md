@@ -5,6 +5,12 @@ published: true
 ---
 
 
+> **Key Points**
+
+> 1. You need to know the target customer well
+
+> 2. Keep your pricing and your customers budget for your service in alignment
+
 
 Now that you’ve identified your typical customer, build out a sample P&L for them. It’s easy to skip this step, but don’t. This will help you gage if your pricing makes sense and keep you on the right path.  Using the average size business you are targeting, estimate’s their typical gross margins, other expenses to arrive to the first data point we need:
 
