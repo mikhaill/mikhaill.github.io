@@ -1,3 +1,17 @@
+---
+layout: page
+title: 1. Pricing Models and Framework
+published: true
+---
+
+
+> **Key Points**
+
+> 1.   Learn how your competition is positioning their products. Often you can see their strategy from the pricing.
+
+> 2.   Look for gaps in their pricing and figure out why they are there.
+
+
 The next step in the process will be evaluating the competitor pricings strategies and a framework for organizing them. It’s not enough just to find out what the competitor is charging, but it’s important to understand the drivers of their pricing and how they put together their pricing packages. 
 
 The most common pricing strategies include:
