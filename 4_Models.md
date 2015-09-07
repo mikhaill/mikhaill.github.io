@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 5. Pricing Models and Framework
+title: 4. Pricing Models and Framework
 published: true
 ---
 
