@@ -4,6 +4,7 @@ title: 1. Introduction
 published: true
 ---
 
+
 > **Key Points**
 
 > 1.   Before you can determine pricing, you need to determine product positioning.
@@ -14,7 +15,7 @@ Developing a proper pricing structure for B2B SaaS software products is complica
 
 SaaS solutions are attractive to customers because they reduce the upfront investment and avoid the ongoing costs of maintaining the hardware and the software. With a SaaS solution, those costs and risks are transferred to the software developer, so it’s important that the pricing structure accounts for this.
 
-Besides having many implications, pricing also has to work for all the stakeholders:
+Pricing also has to work for all the stakeholders:
 
 - Prospects and Customers – It has to align with your customers business models
 - Messaging – Pricing messages to prospects what kind of customer you’re looking for and it has to align with your product marketing message
@@ -27,7 +28,7 @@ The one assumption I’m making is that you already know the product positioning
 
 Before we can talk pricing, there needs to be a clear product marketing position that pricing supports. If you haven’t figured out your product positioning, do it now, because a misalignment between pricing and position will quickly kill your sales.
 
-> If you don't take product positioning seriously, if will most likely kill your startup. Check out some startup post mortems [here](https://www.cbinsights.com/blog/startup-failure-post-mortem/) or [here](http://autopsy.io/) and look at the most common reason for failure. It's the "lack of product to market fit".
+> If you don't take product positioning seriously, if will most likely kill your startup. Check out some startup post mortems [here](https://www.cbinsights.com/blog/startup-failure-post-mortem/) or [here](http://autopsy.io/) and look at the most common reason for failure. It's the "Lack of product to market fit". Which is generally the result product marketing failure.
 
 Product positioning is an important part of a product marketing strategy.  If you try to be everything to everyone, you may not succeed with anyone.  A specific position helps buyers understand where the product fits in terms what it offers, and how it compares with the competition. 
 
@@ -42,6 +43,6 @@ As you can see, all of the companies here are e-mail services providers and prob
 
 If you haven’t thought about product positioning, now is the time to do it.  There are many other wonderful resources on product positioning and marketing.
 
-Let me give you two warning as you think about your product positioning. Do not let pricing be your differentiation. There will always be someone who will find a way to undercut you and offer a similar set of features cheaper than you can.  Please try to find a different way to position yourself other than price.
+Let me give you two warning as you think about your product positioning. **Do not let pricing be your differentiation.** There will always be someone who will find a way to undercut you and offer a similar set of features cheaper than you can.  Please try to find a different way to position yourself other than price.
 
-Have a clear decision on if you’re going to be a premium product in the marketplace or not.  A premium product at a higher cost may require a sales team, which means additional hiring, costs, commission, etc. A premium product also comes with certain assumptions such account managers, phone support, etc. This isn’t to discourage you from pricing at a premium, if that’s how you’re planning to build your business but be aware of the implications.
+**Have a clear decision on if you’re going to be a premium product in the marketplace or not.**  A premium product may require a sales team, which means additional hiring, costs, commission, etc. A premium product also comes with certain assumptions about account managers, phone support, etc. This isn’t to discourage you from pricing at a premium, just be aware of the implications.
