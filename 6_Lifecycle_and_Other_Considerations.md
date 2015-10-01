@@ -29,4 +29,13 @@ So, just by asking your potential customers what else they've bought you can mak
 - Are you interested in a business with fewer, higher margin customers or a mass, lower margin offering
 - You pricing point will determine wether you need a no-touch, low-touch or a high-touch sales operation.
 -- Some products, due to complexity, even at low cost require human touch
-    
+   
+
+Be careful of pricing scheme getting too complex. You can maximize revenue with a range of services that appeal to multiple customer segments, but the reasons for breaking up your product need to be conveyed clearly in the prices or customers will walk away. The pricing complexity that deters customers stems from an emphasis on creating a boatload of undesirable features that don’t justify the prices of the services that include them.
+
+The price you settle on will not be final. It will evolve over time as you learn how customers use your product.
+
+Price sensitive customers get limited plans, value sensitive customers get the VIP plan. 
+
+
+Too few tiers leaves cash on the table but too many tiers is just as bad confusing customers.
