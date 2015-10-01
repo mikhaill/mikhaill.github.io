@@ -1,6 +1,7 @@
 ---
-published: false
+published: true
 ---
+
 
 ## Fogbugz vs Jira
 
@@ -14,4 +15,3 @@ Prashant Deva wrote an interesting post comparing the success of two SaaS bug tr
 **Jira charges a token $10 instead of Free, to keep non-serious users away and also established it as real 'paid' tier.**
 
 So if have an allergy to giving away your software for free, here is a successful B2B SaaS company without a free account.
-
