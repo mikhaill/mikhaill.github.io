@@ -25,11 +25,16 @@ The freemium model was always based on "give away" the product, but for it to ac
 Additionally, note if your competition basing their pricing on:
 
 - Set license fee vs revenue share
-	- Example: $399/month or 2% of revenue
+	- Example: $399/month or 2% of revenue. This type of model implies that your business is focusing on small and growing customer size. Any business that has established cash flow and significant volume, will want a predermined license fee. The bigger the customer, the more they tend to hate revenue share models.
+    
 - Number of users / seats
-	- Example: $10 for up to 3 users
+	- Example: $10 for up to 3 users.  Note what message this sends . If the top plan offers 10 seats, then thats the largest prospect they are effectively targeting.  
+    
 - Specific features locked / unlocked
-   - Example: You get X in the basic package but X and Y in the advanced package 
+   - Example: You get X in the basic package but X and Y in the advanced package. Keep an eye out on what features are locked into the more expensive packages.
+
+>Personal Annecdote: A while ago I was looking at a digital signature solution for my company. I found one that had a great entry level basic plan, based on the volume of signatures we would be collecting. My one other requirement was that it would sync to Salesforce. As soon as I added the Salesforce integration requirement, I got bumped into the Enterprise package that cost 20x the entry level. They lost my business because they used "Salesforece" integration as way to split SMBs from Enterprise, without accounting for Salesforce being the most popular CRM.
+   
 - Transactions / Actions Performed
    - Example: 100,000 emails per month
 - Support tiers
