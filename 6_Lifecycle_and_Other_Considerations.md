@@ -39,3 +39,5 @@ Price sensitive customers get limited plans, value sensitive customers get the V
 
 
 Too few tiers leaves cash on the table but too many tiers is just as bad confusing customers.
+
+Freemium is a marketing strategy, not a way to make money. You're thinking of a free trial - this blog post is perfect on the topic: http://www.priceintelligently.com/blog/bid/188339/Screw-Freemium-Use-a-Free-Trial
