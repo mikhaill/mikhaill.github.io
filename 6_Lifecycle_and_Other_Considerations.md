@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 5. Other Considerations
+title: 6. Other Considerations
 published: false
 ---
 
