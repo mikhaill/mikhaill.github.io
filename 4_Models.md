@@ -4,13 +4,9 @@ title: 4. Pricing Models and Framework
 published: true
 ---
 
-
-
-
 > **Key Points**
-> 1.   Learn how your competition is positioning their products. Often you can see their strategy from the pricing.
-> 2.   Look for gaps in their pricing and figure out why they are there.
-
+> 1. Learn how your competition is positioning their products. Often you can see their strategy from the pricing.
+> 2. Look for gaps in their pricing and figure out why they are there.
 
 The next step in the process will be evaluating the competitor pricings strategies and a framework for organizing them. It’s not enough just to find out what the competitor is charging, but it’s important to understand the drivers of their pricing and how they put together their pricing packages. 
 
@@ -29,15 +25,15 @@ The freemium model was always based on "give away" the product, but for it to ac
 Additionally, note if your competition basing their pricing on:
 
 - Set license fee vs revenue share
-	-Example: $399/month or 2% of revenue
+	- Example: $399/month or 2% of revenue
 - Number of users / seats
-	-Example: $10 for up to 3 users
+	- Example: $10 for up to 3 users
 - Specific features locked / unlocked
-   -Example: You get X in the basic package but X and Y in the advanced package 
+   - Example: You get X in the basic package but X and Y in the advanced package 
 - Transactions / Actions Performed
-   -Example: 100,000 emails per month
+   - Example: 100,000 emails per month
 - Support tiers
-    -Example: Forum, Email, Phone, SLA
+    - Example: Forum, Email, Phone, SLA
 - Training
 - Integrations into 3rd parties and API access
 
