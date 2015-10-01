@@ -58,9 +58,9 @@ Additionally, note if your competition basing their pricing on:
 - **Note #1: License Free vs Revenue Share**
     - Revenue share is always attractive to the SMB as they don’t have to commit payment for something that may not work for them or something that may take a while for them to ramp up to get full use.  They are much happier to pay for something after they used the product. 
     - An established company, with budgets and managers approval, that’s already doing significant volume isn’t interesting in giving up 1% of their revenue. It’s almost a non-starter for them.  They want to know what their monthly fee is going to be, so they can budget for it and expect to pay it every month. 
->This is a quote from ChannelAdvisor's Quarterly earnings report: 
->*"Fixed subscription fees were 78 percent of total revenue and variable subscription fees were 22 percent of total revenue for the first quarter of 2015. This compares to 73 percent and 27 percent, respectively, for the first quarter of 2014."*  -[Source](http://www.channeladvisor.com/channeladvisor-announces-first-quarter-2015-financial-results/)  
->As you can see, their customers are forcing them into switching to license fee from revenue share.
+
+> This is a quote from ChannelAdvisor's 2015 Q1 earnings report: *"Fixed subscription fees were 78 percent of total revenue and variable subscription fees were 22 percent of total revenue for the first quarter of 2015. This compares to 73 percent and 27 percent, respectively, for the first quarter of 2014."* [Source](http://www.channeladvisor.com/channeladvisor-announces-first-quarter-2015-financial-results/)  
+As you can see, their customers are forcing them into switching to license fee from revenue share.
 
 - **Note #2: Transaction Tiers**
 	- Transactions / Actions Performed signals exactly what kind of company is in your sweet spot for support.  Let’s say you break up your pricing package to  be
