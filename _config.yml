@@ -7,9 +7,9 @@ permalink:        pretty
 relative_permalinks: true
 
 # Setup
-title:            B2B Saas Pricing 
+title:            B2B Saas Marketing 
 tagline:          'A collection of thoughts'
-description:      'A collection of thoughts, ideas and suggestions about how to properly price B2B SaaS products and services.'
+description:      'A collection of thoughts about B2B SaaS marketing. Also a little eBook on ideas and suggestions about how to properly price B2B SaaS products and services.'
 url:              http://mikhaill.github.io
 baseurl:          /
 
