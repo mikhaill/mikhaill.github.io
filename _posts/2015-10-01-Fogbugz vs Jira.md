@@ -1,9 +1,7 @@
 ---
-published: true
+layout: post
+title: Fogbugz vs Jira
 ---
-
-
-## Fogbugz vs Jira
 
 Prashant Deva wrote an interesting post comparing the success of two SaaS bug tracking platforms [Why Fogbugz lost to Jira](http://movingfulcrum.com/why-fogbugz-lost-to-jira/). Among many reasons he calls out, there is an intersting pricing note.
 
