@@ -4,6 +4,7 @@ title: 5. Costs
 published: true
 ---
 
+
 > **Key Points**
 
 > 1.   Make sure your price makes you money after all costs are factored in.
@@ -12,15 +13,14 @@ published: true
 
 It maybe too early in the development of your product to properly calculate the cost of creating the product, lifetime value of a customer and cost of sale but you should at least try to keep in mind different costs that eventually the product revenue needs to cover. 
 
-1. Infrastructure Costs
-2. Promotional Costs
-3. Marketing Salaries
-4. Development Salaries
-5. Sales Salaries (and Commissions)
-6. Support Team Salaries
-7. General Overhead
+1. Infrastructure costs, including your own vendors for development (software licenses, uptime monitoring, analytics, etc)
+2. Promotion and marketing costs
+3. Staff salaries
+4. Commissions for sales team (if applicable)
+5. General overhead and office space
+6. Credit card processing costs
 
-Be very careful is taking advice along the lines "Well, if the cost of acquisition that you pay is below your customer value, it's a great way to promote the product". Yes, that's great but what about covering the rest of the costs associated with that customer.
+So how many customers do you need at $10/month to cover all that? 
 
 As an example of the above list you can do back of the envelope math as following:
 
