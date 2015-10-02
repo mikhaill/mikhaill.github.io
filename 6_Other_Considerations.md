@@ -1,11 +1,17 @@
 ---
 layout: page
 title: 6. Other Considerations
-published: false
+published: true
 ---
 
+> **Key Points**
 
-This is more of a collections of a number of small and quick ideas to keep in mind before you get to the actual pricing considerations.
+> 1.  Try to use all available inforation about your potential customers to come up with an acceptable pricing strategy
+
+> 2.  Pricing sends a message, be on the lookout for when the wrong messages
+
+
+This is a collections of a few quick ideas to keep in mind before you get to the actual pricing considerations.
 
 ### What else is the customer buying?
 One of the key customer insights that many miss, is to find out what else the customer is paying for and see if you can back out some of their descisions based on that. As an example, let's say you are targetting e-commerce retailers. E-commerce shopping carts generally come in two options 
@@ -33,4 +39,4 @@ Too few tiers leaves cash on the table but too many tiers are just as bad at con
 
 You pricing point will determine wether you need a no-touch, low-touch or a high-touch sales operation. Are you interested in a business with fewer, high margin customers or a mass, lower margin offering?
 
-Freemium is a marketing strategy, not a way to make money. You're thinking of a free trial - this blog post is perfect on the topic: [Screw Freemium Use a Free Trial](http://www.priceintelligently.com/blog/bid/188339/Screw-Freemium-Use-a-Free-Trial)
+Freemium is a marketing strategy, not a way to make money. This blog post is perfect read on the topic: [Screw Freemium Use a Free Trial](http://www.priceintelligently.com/blog/bid/188339/Screw-Freemium-Use-a-Free-Trial)
