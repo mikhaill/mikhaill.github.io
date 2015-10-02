@@ -11,6 +11,8 @@ published: true
 
 > 2.   Pricing has to work for the business, the customer and be consistant with product positioning.
 
+> 3.   Pricing will evolve and need to be adjusted as you learn from your prospects and your business. 
+
 Developing a proper pricing structure for B2B SaaS software products is complicated. Pricing has many requirements, and figuring out how to get it right is not easy. It takes plenty of trial and errors. Getting pricing correct is extremely important because it will determines the length of your sales cycle, who the decision makers are, your position in the marketplace, sets customers expectations and has to keep you profitable.
 
 SaaS solutions are attractive to customers because they reduce the upfront investment and avoid the ongoing costs of maintaining the hardware and the software. With a SaaS solution, those costs and risks are transferred to the software developer, so it’s important that the pricing structure accounts for this.
@@ -46,3 +48,5 @@ If you haven’t thought about product positioning, now is the time to do it.  T
 Let me give you two warning as you think about your product positioning. **Do not let pricing be your differentiation.** There will always be someone who will find a way to undercut you and offer a similar set of features cheaper than you can.  Please try to find a different way to position yourself other than price.
 
 **Have a clear decision on if you’re going to be a premium product in the marketplace or not.**  A premium product may require a sales team, which means additional hiring, costs, commission, etc. A premium product also comes with certain assumptions about account managers, phone support, etc. This isn’t to discourage you from pricing at a premium, just be aware of the implications.
+
+Pricing before the product is launched is more art then science. There are more unknown values in your equiation than known numbers. The goal of here is to at least point you in the right direction and avoid a major mistake.
