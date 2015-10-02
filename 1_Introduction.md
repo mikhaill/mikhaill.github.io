@@ -49,4 +49,4 @@ Let me give you two warning as you think about your product positioning. **Do no
 
 **Have a clear decision on if you’re going to be a premium product in the marketplace or not.**  A premium product may require a sales team, which means additional hiring, costs, commission, etc. A premium product also comes with certain assumptions about account managers, phone support, etc. This isn’t to discourage you from pricing at a premium, just be aware of the implications.
 
-Pricing before the product is launched is more art then science. There are more unknown values in your equiation than known numbers. The goal of here is to at least point you in the right direction and avoid a major mistake.
+Pricing before the product is launched is more art than science. There are more unknown values in your equation than known numbers. The goal of here is to at least point you in the right direction and avoid a major mistake.
