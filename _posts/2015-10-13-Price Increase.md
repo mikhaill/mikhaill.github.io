@@ -1,3 +1,8 @@
+---
+layout: post
+title: Price Increase
+---
+
 Recently, Miva, an e-commerce shopping cart, [announced a price change](http://www.miva.com/miva-pricing-update) for their customers. 
 
 Historically, Miva charged customers based on the number of seats (users) and storage/bandwidth the store used, regardless of volume of sales.
