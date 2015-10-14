@@ -48,7 +48,7 @@ The new pricing continued to be based on bandwidth/stores use, however, it also 
 </tbody>
 </table>
 
-Where as before, whether you were doing $10 in revenue or $100,000,000 in revenue as long as your usage fit the plan you paid the same, now you get bumped into a higher plan. This forced many into paying significantly more. It's no surprise that some of the user feedback has been:
+Before the change, whether you were doing $10 in revenue or $100,000,000 in revenue as long as your usage fit disk/bandwith/admin tier you paid the same. Now if two business are using exactly the same disk/bandwidth/seats but one is is making $100,000 annually and one is making $10,000,000 the bigger business get bumped into a higher plan. This forced many of their current users to pay significantly more. It's no surprise that some of the user feedback has been:
 
 > A 150% price increase? That's ridiculous......  
 
@@ -60,8 +60,7 @@ Where as before, whether you were doing $10 in revenue or $100,000,000 in revenu
 
 What can we learn from this ?
 
-- Price sensitivity. As I wrote in my [Customer Budgets](/3_Budgets/), you need to know the budget of your customers. Historically, Miva has always targeted the smaller merchant that is intensely price sensitive. 
-	- I also wrote about knowing your customer P&L. Some merchants net margins are so thin that a $500 annual cost difference is a big deal to them.
-	- Perhaps Miva did this on purpose to get rid of some of the smaller customers, but realistically, when doing a price increase, having the price jump 10x or more is generally not going to be received well by the customers. 
-- Pricing dictates the customers you get. Miva has always targeted the price conscious customers and now they are proposing a huge price increase to them, which many of them just can't absorb. This pricing structure goes directly against their market positioning.
-- Giving customers 30 day notice to such a dramatic price change further negatively effects the company perception. 
+- ** Price sensitivity **. As I wrote in my [Customer Budgets](/3_Budgets/), you need to know the budget of your customers. Historically, Miva has always targeted the smaller merchant that is intensely price sensitive.  This also backs into knowing your customer P&L. Some merchants net margins are so thin that a $500 annual cost difference is a big deal to them.
+	- Perhaps Miva did this on purpose to get rid of some of the smaller customers, but realistically, when doing a price increase, model out the changes by reviewing a few customers usage. Having the price jump 10x or more is generally not going to be received well by the customers. 
+- Giving customers 30 day ** notice** to such a dramatic price change further negatively effects the company perception. It's impossible to migrate to a different platform in 30 days.
+- Product positioning . In [Revenue Models](/4_Models/) I talk about that many business dislike the revenue share model once they grow. Miva essentially switched to a hybrid revenue share model. The bigger the customer got, the higher plan they got bumped into.
