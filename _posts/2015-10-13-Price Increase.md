@@ -54,13 +54,13 @@ The new pricing continued to be based on bandwidth/stores use, however, it also 
 
 Before the change, whether you were doing $10 in revenue or $100,000,000 in revenue as long as your usage fit disk/bandwith/admin tier you paid the same. Now if two business are using exactly the same disk/bandwidth/admin tier but one is is making $100,000 annually and one the other, $10,000,000 the bigger business gets bumped into a higher plan. This forced many of their current users to pay significantly more. It's no surprise that some of the user feedback has been:
 
-> A 150% price increase? That's ridiculous......  
----
->  Do you realize how impractical it is to ask a business with a gross revenue of 100K to pay 250 a month? Most likely their profit margins are already minimal - could be 30K of profit, and less minus operating expenses.
----
-> My monthly bill for one website is going from roughly $90 a month to $1,500 A MONTH?? The other from $49 to $249?? 
+> - A 150% price increase? That's ridiculous......  
 
-(You can read the two forum strings on the Miva forums [here](http://extranet.miva.com/forums/showthread.php?116875-Update-on-Pricing-from-Miva-Inc/) and [here](http://extranet.miva.com/forums/showthread.php?116852-New-Pricing/ )
+> - Do you realize how impractical it is to ask a business with a gross revenue of 100K to pay 250 a month? Most likely their profit margins are already minimal - could be 30K of profit, and less minus operating expenses.
+
+> - My monthly bill for one website is going from roughly $90 a month to $1,500 A MONTH?? The other from $49 to $249?? 
+
+(You can read the complete customer reaction in the Miva forums [here](http://extranet.miva.com/forums/showthread.php?116875-Update-on-Pricing-from-Miva-Inc/) and [here](http://extranet.miva.com/forums/showthread.php?116852-New-Pricing/) )
 
 What can we learn from this?
 
