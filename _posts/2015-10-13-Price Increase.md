@@ -1,6 +1,4 @@
-## A Price Increase 
-
-Recently, Miva an e-commerce shopping cart, [announced a price change](http://www.miva.com/miva-pricing-update) for their customers. 
+Recently, Miva, an e-commerce shopping cart, [announced a price change](http://www.miva.com/miva-pricing-update) for their customers. 
 
 Historically, Miva charged customers based on the number of seats (users) and storage/bandwidth the store used, regardless of volume of sales.
 
@@ -12,9 +10,9 @@ The new pricing continued to be based on bandwidth/stores use, however, it also 
 <table>
 <thead>
 <tr>
-  <td> **Starter** </td>
-  <td> **Business** </td>
-  <td> **Professional** </td>
+  <th> Starter </th>
+  <th> Business </th>
+  <th> Professional </th>
 </tr>
 </thead>
 <tbody>
@@ -31,36 +29,42 @@ The new pricing continued to be based on bandwidth/stores use, however, it also 
 <tr>
 <td>
 - Disk Space: 2GB
+
 - Bandwidth: 20GB
+
 - Admin Seats: 2
 </td>
 <td>
  - Disk Space: 5GB
- - Bandwidth: 100GB
+ 
+- Bandwidth: 100GB
+ 
  - Admin Seats: 3
  </td>
 <td>
  - Disk Space: 10GB
+ 
  - Bandwidth: 250GB
+ 
  - Admin Seats: 5
 </td>    
 </tr>
 </tbody>
 </table>
 
-Before the change, whether you were doing $10 in revenue or $100,000,000 in revenue as long as your usage fit disk/bandwith/admin tier you paid the same. Now if two business are using exactly the same disk/bandwidth/seats but one is is making $100,000 annually and one is making $10,000,000 the bigger business get bumped into a higher plan. This forced many of their current users to pay significantly more. It's no surprise that some of the user feedback has been:
+Before the change, whether you were doing $10 in revenue or $100,000,000 in revenue as long as your usage fit disk/bandwith/admin tier you paid the same. Now if two business are using exactly the same disk/bandwidth/admin tier but one is is making $100,000 annually and one the other, $10,000,000 the bigger business gets bumped into a higher plan. This forced many of their current users to pay significantly more. It's no surprise that some of the user feedback has been:
 
 > A 150% price increase? That's ridiculous......  
-
+---
 >  Do you realize how impractical it is to ask a business with a gross revenue of 100K to pay 250 a month? Most likely their profit margins are already minimal - could be 30K of profit, and less minus operating expenses.
-
+---
 > My monthly bill for one website is going from roughly $90 a month to $1,500 A MONTH?? The other from $49 to $249?? 
 
 (You can read the two forum strings on the Miva forums [here](http://extranet.miva.com/forums/showthread.php?116875-Update-on-Pricing-from-Miva-Inc/) and [here](http://extranet.miva.com/forums/showthread.php?116852-New-Pricing/ )
 
-What can we learn from this ?
+What can we learn from this?
 
-- ** Price sensitivity **. As I wrote in my [Customer Budgets](/3_Budgets/), you need to know the budget of your customers. Historically, Miva has always targeted the smaller merchant that is intensely price sensitive.  This also backs into knowing your customer P&L. Some merchants net margins are so thin that a $500 annual cost difference is a big deal to them.
+- **Price sensitivity**. As I wrote in my [Customer Budgets](/3_Budgets/), you need to know the budget of your customers. Historically, Miva has always targeted the smaller merchant that is intensely price sensitive.  This also backs into knowing your customer P&L. Some merchants net margins are so thin that a $500 annual cost difference is a big deal to them.
 	- Perhaps Miva did this on purpose to get rid of some of the smaller customers, but realistically, when doing a price increase, model out the changes by reviewing a few customers usage. Having the price jump 10x or more is generally not going to be received well by the customers. 
-- Giving customers 30 day ** notice** to such a dramatic price change further negatively effects the company perception. It's impossible to migrate to a different platform in 30 days.
+- Giving customers 30 day **notice** to such a dramatic price change further negatively effects the company perception. It's impossible to migrate to a different platform in 30 days.
 - Product positioning . In [Revenue Models](/4_Models/) I talk about that many business dislike the revenue share model once they grow. Miva essentially switched to a hybrid revenue share model. The bigger the customer got, the higher plan they got bumped into.
