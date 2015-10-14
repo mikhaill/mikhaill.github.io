@@ -12,9 +12,9 @@ The new pricing continued to be based on bandwidth/stores use, however, it also 
 <table>
 <thead>
 <tr>
-  <td>**Starter**</td>
-  <td>**Business**</td>
-  <td>**Professional**</td>
+  <td> **Starter** </td>
+  <td> **Business** </td>
+  <td> **Professional** </td>
 </tr>
 </thead>
 <tbody>
@@ -35,15 +35,18 @@ $100k - $499,999.99</td>
 $500k - $999,999.99</td>    
 </tr>
 <tr>
-	<td>Disk Space: 2GB
-Bandwidth: 20GB
-Admin Seats: 2</td>
-	<td>Disk Space: 5GB
-Bandwidth: 100GB
-Admin Seats: 3</td>
-	<td>Disk Space: 10GB
-Bandwidth: 250GB
-Admin Seats: 5</td>    
+	<td>
+- Disk Space: 2GB
+- Bandwidth: 20GB
+- Admin Seats: 2</td>
+	<td>
+- Disk Space: 5GB
+- Bandwidth: 100GB
+- Admin Seats: 3</td>
+	<td>
+- Disk Space: 10GB
+- Bandwidth: 250GB
+- Admin Seats: 5</td>    
 </tr>
 </tbody>
 </table>
@@ -51,11 +54,16 @@ Admin Seats: 5</td>
 What this did, was forced merchants that were doing significant volume through the platform but using some of the cheapest use packages to be forced into paying significantly more. It's no surprise that some of the user feedback has been:
 
 > A 150% price increase? That's ridiculous......  
-> In my business, $1 million in sales nets about $40,000 in profit after all the expenses are paid.....
+
+>  Do you realize how impractical it is to ask a business with a gross revenue of 100K to pay 250 a month? Most likely their profit margins are already minimal - could be 30K of profit, and less minus operating expenses.
+
 > My monthly bill for one website is going from roughly $90 a month to $1,500 A MONTH?? The other from $49 to $249?? 
 
-- Price sensitivity. As I talked in my [Customer Budgets](/3_Budgets/), when you need to know the budget of your customers. Historically, Miva has always targeted the smaller merchant, who is intensely price sensitive. A pricing jump 3x to 10x is the same thing as firing customers.
-- In the same breath I also talk about knowing your customer P&L. Some merchants net margins are so thin that a $500 annual cost difference is a big deal to them
+(You can read the two forum strings on the Miva forums [here](http://extranet.miva.com/forums/showthread.php?116875-Update-on-Pricing-from-Miva-Inc/) and [here](http://extranet.miva.com/forums/showthread.php?116852-New-Pricing/ )
 
+What can we learn from this ?
 
-
+- Price sensitivity. As I wrote in my [Customer Budgets](/3_Budgets/), you need to know the budget of your customers. Historically, Miva has always targeted the smaller merchant, who is intensely price sensitive. 
+	- I also wrote about knowing your customer P&L. Some merchants net margins are so thin that a $500 annual cost difference is a big deal to them
+- Pricing dictates the customers you get. Miva has always targetted the price conscious customers and now they are proposing a huge price increase to them, which many of them just can't absorb.
+- Giving customers 30 day notice to such a dramatic price change further negatively effects the company perception. 
