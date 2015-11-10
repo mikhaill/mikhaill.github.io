@@ -70,3 +70,68 @@ As you can see, their customers are forcing them into switching to license fee f
      
 This means that if I’m a smaller business, doing 200 – 800 transactions a month I may look and think that you’re too big for me since I fall to the smaller side of your smallest plan. On the other other hand, if I am a big customer, I see that your max plan is 10,000 and even if you have a note “for larger customers call us” I know that if I am doing 20,000 transactions, I’m twice your largest package and I can assume you may struggle to support me from a technology and other standpoint.
 
+
+# Costs
+
+> **Key Points**
+
+> 1.   Make sure your price makes you money after all costs are factored in.
+
+## Figure out the total cost of product
+
+It maybe too early in the development of your product to properly calculate the cost of creating the product, lifetime value of a customer and cost of sale but you should at least try to keep in mind different costs that eventually the product revenue needs to cover. 
+
+1. Infrastructure costs, including your own vendors for development (software licenses, uptime monitoring, analytics, etc)
+2. Promotion and marketing costs
+3. Staff salaries
+4. Commissions for sales team (if applicable)
+5. General overhead and office space
+6. Credit card processing costs
+
+So how many customers do you need at $10/month to cover all that? 
+
+As an example of the above list you can do back of the envelope math as following:
+
+- A server costs me $X per month and can handle Z customers which means my monthly infrastrucure cost per customer is X/Z  (Recurring cost)
+- On average it costs me $Y to acquire each new paying customer (One time cost)
+- I have a staff of Z at total monthly payroll of ABC. How many paying customers to do I need to be able to cover the cost of payroll? (Recurring cost)
+
+
+# Other Considerations
+
+> **Key Points**
+
+> 1.  Try to use all available inforation about your potential customers to come up with an acceptable pricing strategy
+
+> 2.  Pricing sends a message, be on the lookout for when the wrong messages
+
+
+This is a collections of a few quick ideas to keep in mind before you get to the actual pricing considerations.
+
+### What else is the customer buying?
+One of the key customer insights that many miss, is to find out what else the customer is paying for and see if you can back out some of their decisions based on that. As an example, let's say you are targeting e-commerce retailers. E-commerce shopping carts generally come in two options 
+
+1. Hosted - (BigCommerce, Shopify) - The cart is entire hosted for the retailer. They are sacrificing some flexibility in exchange for not having their own development/IT staff and infrastructure. These products have low startup costs and monthly fees are often based on revenue share, attracting newer / smaller businesses.
+2. Owned - (Magento) - The cart code is licensed  to the merchant who customizes and hosts it themselves. This generally requires them to have their own hardware and staff to manage the cart or pay someone to do it for them. This generally attracts bigger merchants with a budet for software.
+
+Just by asking your potential customers what else they've bought or what platforms they have in place, you can make key decisions based on those insights. By asking what cart they are using, you just backed out the following information:
+
+- Do they have IT staff and infrastructure?
+-- Which actually also leads to overall budget estimates
+- Are they willing to spend money to get projects off the ground
+- Do they prefer to sacrifice features for "it just works"
+- Are they open to a monthly rev share fee or prefer licensing fees
+- What kind of sales process they are familiar with
+-- Magento is high-touch, sales person driven
+-- Shopify is self-serve signup
+   
+
+### Implication of Decisions
+
+Be careful of pricing getting too complex. You can maximize revenue by segmenting your customer base, but the way you gate your product needs to be conveyed clearly in the prices.  As you segment your pricing remember, price sensitive customers get limited plans, value sensitive customers get the VIP plan. 
+
+Too few tiers leaves cash on the table but too many tiers are just as bad at confusing customers.
+
+You pricing point will determine wether you need a no-touch, low-touch or a high-touch sales operation. Are you interested in a business with fewer, high margin customers or a mass, lower margin offering?
+
+Freemium is a marketing strategy, not a way to make money. This blog post is perfect read on the topic: [Screw Freemium Use a Free Trial](http://www.priceintelligently.com/blog/bid/188339/Screw-Freemium-Use-a-Free-Trial)
