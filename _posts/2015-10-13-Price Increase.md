@@ -69,7 +69,7 @@ Before the change, whether you were doing $10 in revenue or $100,000,000 in reve
 
 What can we learn from this?
 
-- **Price sensitivity**. As I wrote in my [Customer Budgets](/3_Budgets/), you need to know the budget of your customers. Historically, Miva has always targeted the smaller merchant that is intensely price sensitive.  This also backs into knowing your customer P&L. Some merchants net margins are so thin that a $500 annual cost difference is a big deal to them.
+- **Price sensitivity**. As I wrote in my [Customer Budgets](/B2B-SaaS-Pricing), you need to know the budget of your customers. Historically, Miva has always targeted the smaller merchant that is intensely price sensitive.  This also backs into knowing your customer P&L. Some merchants net margins are so thin that a $500 annual cost difference is a big deal to them.
 	- Perhaps Miva did this on purpose to get rid of some of the smaller customers, but realistically, when doing a price increase, model out the changes by reviewing a few customers usage. Having the price jump 10x or more is generally not going to be received well by the customers. 
 - Giving customers 30 day **notice** to such a dramatic price change further negatively effects the company perception. It's impossible to migrate to a different platform in 30 days.
-- Product positioning . In [Revenue Models](/4_Models/) I talk about that many business dislike the revenue share model once they grow. Miva essentially switched to a hybrid revenue share model. The bigger the customer got, the higher plan they got bumped into.
+- Product positioning . In [Revenue Models](/B2B-SaaS-Pricing) I talk about that many business dislike the revenue share model once they grow. Miva essentially switched to a hybrid revenue share model. The bigger the customer got, the higher plan they got bumped into.
